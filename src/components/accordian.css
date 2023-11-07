@@ -1,0 +1,39 @@
+.wrapper {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.accordian {
+  width: 90%;
+  align-self: center;
+}
+
+.item {
+  background: rgb(243, 237, 237);
+  margin-bottom: 5px;
+  padding: 10px 20px;
+  align-self: center;
+}
+.title {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 15px;
+  cursor: pointer;
+}
+.content {
+  color: black;
+  max-height: 0px;
+  overflow: hidden;
+  transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+  text-align: start;
+}
+.content.show {
+  height: auto;
+  max-height: 9999px;
+  transition: all 0.5s cubic-bezier(1, 0, 1, 0);
+}

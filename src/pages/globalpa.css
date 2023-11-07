@@ -1,0 +1,23 @@
+.Quote {
+  padding: 1rem;
+  margin-top: 1rem;
+  color: grey;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.Heading {
+  margin-top: 1rem;
+  color: black !important;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 20px;
+}
+
+.Points {
+  margin-top: 1rem;
+  text-align: start;
+  padding: 2rem;
+  font-size: 20px;
+  line-gap-override: 5px;
+}

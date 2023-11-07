@@ -1,0 +1,52 @@
+.title {
+  color: darkblue;
+  font-size: 40px;
+}
+
+.Subheading {
+  list-style-type: number;
+  color: black;
+  text-align: start;
+  margin-left: 10rem;
+  padding-top: 2rem;
+  text-align: left;
+}
+.wrapper {
+  margin: 5rem auto 0 auto;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  line-height: 35px;
+}
+
+.wrapper-2 {
+  margin: 5rem auto 0 auto;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  line-height: 35px;
+}
+
+.image1 {
+  padding: 40px;
+  width: 55%;
+  height: 40%;
+  border-radius: 50px;
+  padding-right: 20px;
+}
+.wrapper-text1 {
+  color: black;
+  text-align: start;
+  padding-top: 20px;
+  font-size: 22px;
+  line-height: 40px;
+}
+.wrapper-text2 {
+  color: black;
+  text-align: start;
+  padding-top: 30px;
+  font-size: 22px;
+  line-height: 40px;
+}
