@@ -2,7 +2,7 @@
   "homepage": " https://shobhit141141.github.io/iatsat-forked",
   "name": "iatsat",
   "version": "1.0.0",
-   "private": true,
+   "private": false,
   "description": "",
   "keywords": [],
   "main": "src/index.js",
