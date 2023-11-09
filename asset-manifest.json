@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/iatsat-forked/static/css/main.98f5af91.css",
-    "main.js": "/iatsat-forked/static/js/main.fd75d8a7.js",
-    "index.html": "/iatsat-forked/index.html",
-    "main.98f5af91.css.map": "/iatsat-forked/static/css/main.98f5af91.css.map",
-    "main.fd75d8a7.js.map": "/iatsat-forked/static/js/main.fd75d8a7.js.map"
+    "main.css": "./static/css/main.30a2d78a.css",
+    "main.js": "./static/js/main.fd75d8a7.js",
+    "index.html": "./index.html",
+    "main.30a2d78a.css.map": "./static/css/main.30a2d78a.css.map",
+    "main.fd75d8a7.js.map": "./static/js/main.fd75d8a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.98f5af91.css",
+    "static/css/main.30a2d78a.css",
     "static/js/main.fd75d8a7.js"
   ]
 }
